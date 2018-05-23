@@ -1,10 +1,10 @@
 # APP INFO
 
-### Basic ToDO app built on MERN stack
-### To run clone and run npm install and then npm run dev
-### used mlab to store data
-### fetch data from server when App mount
-### update the current state to the server when user press "Save Changes" button or refresh the page..other events can also be added
+- ### Basic ToDO app built on MERN stack
+- ### To run clone and run npm install and then npm run dev
+- ### used mlab to store data
+- ### fetch data from server when App mount
+- ### update the current state to the server when user press "Save Changes" button or refresh the page..other events can also be added
 
 
 
